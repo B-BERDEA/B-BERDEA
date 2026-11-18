@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ███████╗██████╗ ██████╗ ███████╗ █████╗ 
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗
-██████╔╝█████╗  ██████╔╝██║  ██║█████╗  ███████║
-██╔══██╗██╔══╝  ██╔══██╗██║  ██║██╔══╝  ██╔══██║
-██████╔╝███████╗██║  ██║██████╔╝███████╗██║  ██║
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<img src="ascii.gif" width="600" alt="ascii animation" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Berdea+%F0%9F%91%8B;reverse+engineering+enjoyer;linux+supremacy+%F0%9F%90%A7;privacy+%3E+convenience" alt="typing intro" />
 
