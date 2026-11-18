@@ -1,36 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Rege+%F0%9F%91%8B;reverse+engineering+enjoyer;Arch+%2B+Hyprland+btw;breaking+things+to+understand+them" alt="typing intro" />
+```
+██████╗ ███████╗██████╗ ██████╗ ███████╗ █████╗ 
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██████╔╝█████╗  ██████╔╝██║  ██║█████╗  ███████║
+██╔══██╗██╔══╝  ██╔══██╗██║  ██║██╔══╝  ██╔══██║
+██████╔╝███████╗██║  ██║██████╔╝███████╗██║  ██║
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-**Computer Science student @ UPB ACS, București** · security · low-level · Linux ricing
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Berdea+%F0%9F%91%8B;reverse+engineering+enjoyer;breaking+things+to+understand+them;privacy+%3E+convenience" alt="typing intro" />
+
+**Computer Science student @ UPB ACS, București** · security · low-level · Linux
 
 </div>
 
 ---
 
 ```console
-rege@arch ~ $ whoami
-  name     : David "Rege" Berdea
+berdea@github ~ $ whoami
+  name     : David Berdea
   studies  : Calculatoare și Tehnologia Informației — UPB ACS (year 2)
   focus    : reverse engineering, malware analysis, privacy
-  os       : Arch Linux + Hyprland (btrfs, linux-zen)
-  router   : OpenWrt, obviously
+  habitat  : Linux terminal, too many dotfiles
   langs    : 🇷🇴 🇬🇧 🇮🇹 🇪🇸  · learning 🇷🇺
 
-rege@arch ~ $ cat achievements.txt
+berdea@github ~ $ cat achievements.txt
   🥉 3rd place @ SCSS 2026 — ransomware reverse engineering paper (NB65 / Conti)
 
-rege@arch ~ $ ls ~/projects
+berdea@github ~ $ ls ~/projects
   clipboard-bridge/   → hotkey pipes your clipboard into Gemini and back
   alarm-speaker/      → ESP8266 Bluetooth speaker that doubles as a very loud alarm
-  dotfiles/           → Hyprland + Quickshell rice (work in progress, forever)
+  dotfiles/           → Linux rice (work in progress, forever)
   iphone-liberation/  → long-term: no iOS, only freedom
 ```
 
 ### 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,arch,git,vim,vscode,matlab,html&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,bash,linux,git,vim,vscode,matlab,html&perline=9" alt="skills" />
 </p>
 
 ### 📊 Stats
